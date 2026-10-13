@@ -1,0 +1,10 @@
+# Clés et secrets : ne jamais versionner
+id_rsa*
+id_ed25519*
+id_ecdsa*
+*.pem
+*.key
+*.ovpn
+*.conf
+.env
+*Zone.Identifier
