@@ -20,10 +20,10 @@
 |---|---|---|---|---|---|
 | 5.15 | Contrôle d'accès | R01 | Comptes nominatifs sur la messagerie, mais un compte partagé sur le logiciel de paie | Partiellement conforme | Non-conformité mineure |
 | 5.17 | Informations d'authentification | R03 | Mots de passe de 8 caractères minimum, pas de gestionnaire de mots de passe | Partiellement conforme | Non-conformité mineure |
-| 8.5 | Authentification sécurisée | R02 | MFA activée uniquement sur la messagerie, ni sur le VPN, ni sur le portail client, ni sur les applications SaaS | Non conforme | **Non-conformité majeure** |
+| 8.5 | Authentification sécurisée | R02 | MFA activée uniquement sur la messagerie, ni sur le VPN, ni sur le portail client, ni sur les applications SaaS | Partiellement conforme | **Non-conformité majeure** |
 | 5.18 | Droits d'accès | R04 | Droits attribués à l'arrivée, jamais revus depuis | Partiellement conforme | Non-conformité mineure |
 | 6.5 | Fin ou changement d'emploi | R05 | Retrait des accès fait au cas par cas, sans procédure écrite | Partiellement conforme | Observation |
-| 8.13 | Sauvegarde des informations | R07 | Sauvegarde nocturne du NAS sur disque externe, jamais testée en restauration, pas de copie hors ligne | Non conforme | **Non-conformité majeure** |
+| 8.13 | Sauvegarde des informations | R07 | Sauvegarde nocturne du NAS sur disque externe, jamais testée en restauration, pas de copie hors ligne | Partiellement conforme | **Non-conformité majeure** |
 | 8.22 | Cloisonnement des réseaux | R08 | Wi-Fi invités et réseau interne sur le même réseau | Non conforme | Non-conformité mineure |
 | 6.3 | Sensibilisation et formation | R13 | Aucune sensibilisation du personnel depuis la création du cabinet | Non conforme | **Non-conformité majeure** |
 | 5.19, 5.20 | Fournisseurs et accords avec les fournisseurs | R11 | Contrat d'infogérance sans clause de sécurité ni de notification d'incident | Non conforme | **Non-conformité majeure** |
@@ -37,8 +37,8 @@
 | Résultat | Nombre |
 |---|---|
 | Conforme | 2 |
-| Partiellement conforme | 8 |
-| Non conforme | 8 |
+| Partiellement conforme | 10 |
+| Non conforme | 6 |
 | **Total** | **18** |
 
 | Type d'écart | Nombre |
