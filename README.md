@@ -14,7 +14,7 @@ jusqu'à son audit de conformité.
 | [00-presentation-pme](00-presentation-pme/) | Présentation et contexte de la PME | Terminé |
 | [01-pssi](01-pssi/) | Politique de sécurité (PSSI) simplifiée | Terminé |
 | [02-analyse-risques-ebios](02-analyse-risques-ebios/) | Analyse de risques EBIOS RM | Terminé |
-| [03-audit-iso27001](03-audit-iso27001/) | Audit de conformité ISO 27001 | À venir |
+| [03-audit-iso27001](03-audit-iso27001/) | Audit de conformité ISO 27001 | Terminé |
 | [ressources](ressources/) | Modèles et documents de référence | En cours |
 
 ## Sources et référentiels
